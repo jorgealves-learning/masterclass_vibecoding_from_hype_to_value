@@ -1,0 +1,2 @@
+- [Jorge Alves - Tech Teacher Profile](user_profile.md) -- Backend II teacher at ETIC Algarve, intermediate Python audience, solo lecture + exercises
+- [Vibecode with Safety Masterclass](project_vibecode_masterclass.md) -- 3-hour masterclass: LLMs, prompts, CLAUDE.md, skills, subagents, GDPR/PII, vibecoding
